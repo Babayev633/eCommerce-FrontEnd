@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    font-size: large;
+}
+
+a.product{
+    text-decoration: none;
+    color: black;
+}
+
+a.product div:hover{
+    background-color: #e6efff;
+}
